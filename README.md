@@ -2,7 +2,7 @@
 A number of free computer science eBooks.
 
 
-1. [Logical Reasoning: A First Course](./logicalreasoning.pdf)
+1. [Logical Reasoning: A First Course](./Logical-Reasoning-A-First-Course.pdf)
 By Rob Nederpelt (Author), Fairouz Kamareddine (Author)
 Second Revision 2011.
 ISBN-10 ‏ : ‎ 095430067X
